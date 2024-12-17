@@ -1,4 +1,4 @@
-# Lua Code Notes
+Lua Code Notes
 
    --create variable--
 word = "hello"
